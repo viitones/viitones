@@ -43,5 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Viitones/Viitones/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/viitones/viitones/blob/main/snake.yml" alt="Snake animation" />
 
