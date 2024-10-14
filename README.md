@@ -18,7 +18,7 @@
   
  <h3>Tecnologias</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap,figma,js,ts,react,nextjs,nodejs,aws,git,github,postgres,py,java&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,bootstrap,figma,js,ts,react,nextjs,cypress,nodejs,aws,git,github,postgres,py,java&perline=10)](https://skillicons.dev)
   
 </div>
 
