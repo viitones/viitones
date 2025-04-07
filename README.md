@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/viitones/assets/blob/134b277c75df72adf194e59be9366dd1804684bf/viitones1x1.png" alt="Anime Style Banner" width="400"/>
+  <img src="https://github.com/viitones/assets/blob/134b277c75df72adf194e59be9366dd1804684bf/viitones1x1.png" alt="Anime Style Banner" width="280"/>
 </p>
 
 
